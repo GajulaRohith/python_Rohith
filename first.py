@@ -3,3 +3,4 @@ def function(event, locaton):
 
 function("shekar marriage", "hyderabad")
 
+print("Hello RAJ")
